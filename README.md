@@ -17,7 +17,7 @@ A React Native application that generates secure random passwords based on user-
 ## 📸 Screenshots
 
 ### Generated Password
-![Generated Password](./screenshots/Screenshot-2026-06-07-211140.png)
+![Generated Password](./screenshots/Screenshot 2026-06-07 211140.png)
 
 
 ## Tech Stack
